@@ -56,7 +56,8 @@ confirm that the counter increments its value synchronously at each clock pulse.
 
 ### TIMING DIAGRAM
 
-![image](https://github.com/user-attachments/assets/ef23e53a-6b19-4d80-9246-6b01065b34a2)
+![image](https://github.com/user-attachments/assets/76bec2e8-b5dc-4a17-b072-f9e20265179e)
+
 
 
 
